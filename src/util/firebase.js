@@ -1,14 +1,12 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyD913zoD5TQwGsd1kHWPdvzo6-7DMFBj8U',
-  authDomain: 'tododaily-5dc59.firebaseapp.com',
-  databaseURL: 'https://tododaily-5dc59.firebaseio.com',
-  projectId: 'tododaily-5dc59',
-  storageBucket: 'tododaily-5dc59.appspot.com',
-  messagingSenderId: '272694852596',
-  appId: '1:272694852596:web:5ddb762dd9e30e4cb0d7a1',
-  measurementId: 'G-BSXVN1XVL7',
+  apiKey: "AIzaSyCzag8ebQjc5uTNfak9Z5LTXe7v_4Kpfmk",
+    authDomain: "sample-8c312.firebaseapp.com",
+    projectId: "sample-8c312",
+    storageBucket: "sample-8c312.appspot.com",
+    messagingSenderId: "661815432833",
+    appId: "1:661815432833:web:ce3a8d3a2c54cc0511df80"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
